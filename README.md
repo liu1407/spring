@@ -1,2 +1,2 @@
 # spring
-spring test
+包含springAuto项目
