@@ -14,6 +14,7 @@ public class CustomerService {
 
 	@Override
 	public String toString() {
+		System.out.println();
 		return "CustomerService [dao=" + dao + "]";
 	}
 	
